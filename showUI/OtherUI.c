@@ -1,0 +1,43 @@
+#include "OTHERUI.h"
+
+
+void CheckUI_In(void)
+{
+	
+	
+}
+
+void CheckUI_Update(void)
+{
+	
+	
+}
+
+void SettingUI_In(void)
+{
+	
+	
+}
+
+void SettingUI_Update(void)
+{
+	
+	
+}
+
+void ConfigUI_In(void)
+{
+	
+	
+	
+}
+
+void ConfigUI_Update(void)
+{
+	
+	
+	
+}
+
+
+

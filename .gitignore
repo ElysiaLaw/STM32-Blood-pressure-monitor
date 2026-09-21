@@ -1,0 +1,11 @@
+*
+!*/
+
+!README.md
+!.gitignore
+!*.c
+!*.h
+!*.s
+!*.uvprojx
+!*.svg
+!*.png
